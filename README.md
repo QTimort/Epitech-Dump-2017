@@ -7,7 +7,7 @@ partition size: 8go</br>
 free space: 2.5go</br>
 You can tweak the settings in the virtualbox settings panel !
 
-# Installation
+# Installation
 - Download the VM at https://epitechfr-my.sharepoint.com/personal/timothy_diguiet_epitech_eu/_layouts/15/guestaccess.aspx?docid=03840b06d3329443a904a80bdb163d45d&authkey=ASlzVsqpgGkingngnrqYP0E
 - Unzip Epitech Dump 2017_v1.zip
 - Launch VirtualBox
@@ -18,5 +18,8 @@ You can tweak the settings in the virtualbox settings panel !
   Password : vm
 - You're done!
 
+# Other
 root login: root
 root password: toor
+
+Dont forget to read the readme.txt on the VM Desktop!
