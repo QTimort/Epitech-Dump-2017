@@ -1,5 +1,5 @@
 # Epitech-Dump-2017
-A Virtual Machine that imitate the new Epitech Dump (2017) which is based on Fedora 26.
+A Virtual Machine that imitates the new Epitech Dump (2017) which is based on Fedora 26.
 It comes with Epitech tools such as BLIH, Criteron and with Valgrind and Git.
 
 # VM configuration
