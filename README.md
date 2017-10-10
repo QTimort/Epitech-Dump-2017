@@ -1,5 +1,6 @@
 # Epitech-Dump-2017
 A Virtual Machine that imitate the new Epitech Dump (2017) which is based on Fedora 26.
+It comes with Epitech tools such as BLIH, Criteron and with Valgrind and Git.
 
 # VM configuration
 swap: 1024mo</br>
@@ -19,7 +20,7 @@ You can tweak the settings in the virtualbox settings panel !
 - You're done!
 
 # Other
-root login: root
-root password: toor
+root login: root</br>
+root password: toor</br>
 
-Dont forget to read the readme.txt on the VM Desktop!
+Dont forget to read the readme.txt on the VM Desktop!</br>
