@@ -13,7 +13,7 @@ You can tweak the settings in the virtualbox settings panel !
 - Unzip Epitech Dump 2017v2.zip
 - Launch VirtualBox
 - Go to File -> Import Appliance...
-- Select Epitech Dump 2017_v1.ova
+- Select Epitech Dump 2017v2.ova
 - You can now start the VM
 - Login : vm
   Password : vm
