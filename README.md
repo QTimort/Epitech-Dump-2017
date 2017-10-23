@@ -1,16 +1,16 @@
 # Epitech-Dump-2017
 A Virtual Machine that imitates the new Epitech Dump (2017) which is based on Fedora 26.
-It comes with Epitech tools such as BLIH, Criteron and with Valgrind and Git.
+It comes with the dump default tools such as BLIH, Criteron, Valgrind, Git...
 
 # VM configuration
 swap: 1024mo</br>
-partition size: 8go</br>
-free space: 2.5go</br>
+partition size: 16go</br>
+free space: 5go</br>
 You can tweak the settings in the virtualbox settings panel !
 
 # Installation
-- Download the VM at https://epitechfr-my.sharepoint.com/personal/timothy_diguiet_epitech_eu/_layouts/15/guestaccess.aspx?docid=03840b06d3329443a904a80bdb163d45d&authkey=ASlzVsqpgGkingngnrqYP0E
-- Unzip Epitech Dump 2017_v1.zip
+- Download the VM at https://epitechfr-my.sharepoint.com/personal/timothy_diguiet_epitech_eu/_layouts/15/guestaccess.aspx?docid=0eb408e34eb434ad6a64da94dafc88611&authkey=ASujqzJPBiutBzfgO3l0ovM
+- Unzip Epitech Dump 2017v2.zip
 - Launch VirtualBox
 - Go to File -> Import Appliance...
 - Select Epitech Dump 2017_v1.ova
