@@ -1,6 +1,7 @@
 # Epitech-Dump-2017
 A Virtual Machine that imitates the new Epitech Dump (2017) which is based on Fedora 26.
-It comes with the dump default tools such as BLIH, Criteron, Valgrind, Git...
+It comes with the dump default tools such as BLIH, Valgrind, Git...
+But you need to install Criterion in order to do unit test https://github.com/Snaipe/Criterion
 
 # VM configuration
 swap: 1024mo</br>
